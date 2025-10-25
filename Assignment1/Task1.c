@@ -1,11 +1,4 @@
-// Haider Ali
-// 23-NTU-CS-1164
-// TASK-1
-// Write a program that creates 5 threads. Each thread should: 
-// • Print its thread ID using `pthread_self()`. 
-// • Display its thread number (1st, 2nd, etc.). 
-// • Sleep for a random time between 1–3 seconds. 
-// • Print a completion message before exiting.
+
 
 #include <stdio.h>
 #include <pthread.h>

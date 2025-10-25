@@ -1,11 +1,4 @@
-// Haider Ali
-// 23-NTU-CS-1164
-// Task-5
-// Create a program that simulates a simple student database system. 
-// • Define a struct: `typedef struct { int student_id; char name[50]; float gpa; } Student;` 
-// • Create 3 threads, each receiving a different Student struct. 
-// • Each thread prints student info and checks Dean’s List eligibility (GPA ≥ 3.5). 
-// • The main thread counts how many students made the Dean’s List.
+
 
 #include <stdio.h>
 #include <pthread.h>

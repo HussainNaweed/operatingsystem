@@ -1,11 +1,3 @@
-// Haider Ali
-// 23-NTU-CS-1164
-// TASK-3
-// Write a program that: 
-// • Takes an integer input from the user. 
-// • Creates a thread and passes this integer to it. 
-// • The thread prints the number, its square, and cube. 
-// • The main thread waits until completion and prints “Main thread: Work completed.”
 
 #include <stdio.h>
 #include <pthread.h>

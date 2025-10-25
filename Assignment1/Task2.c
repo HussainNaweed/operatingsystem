@@ -1,11 +1,4 @@
-// Haider Ali
-// 23-NTU-CS-1164
-// TASK-2
-// Write a C program that: 
-// • Creates a thread that prints a personalized greeting message. 
-// • The message includes the user’s name passed as an argument to the thread. 
-// • The main thread prints “Main thread: Waiting for greeting…” before joining the created 
-// thread. 
+
 
 
 #include <stdio.h>

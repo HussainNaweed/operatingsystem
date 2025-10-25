@@ -1,10 +1,4 @@
-// Haider Ali
-// 23-NTU-CS-1164
-// TASK-4
-// Write a program that creates a thread to compute the factorial of a number entered by the 
-// user. 
-// • The thread should return the result using a pointer. 
-// • The main thread prints the result after joining.
+
 
 #include <stdio.h>
 #include <pthread.h>
